@@ -6,15 +6,15 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system)
 
 ### 🏁 Finished ... 👇
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=ci-bootstrap-website&theme=react)](https://github.com/milanmalshika/codeignitor-assignment) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=ci-bootstrap-website&theme=react)](https://github.com/milanmalshika/knapsack-container-problem)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=ci-bootstrap-website&theme=react)](https://github.com/milanmalshika/my-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=ci-bootstrap-website&theme=react)](https://github.com/milanmalshika/flight-sheets-booking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=codeignitor-assignment&theme=react)](https://github.com/milanmalshika/codeignitor-assignment) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=knapsack-container-problem&theme=react)](https://github.com/milanmalshika/knapsack-container-problem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=my-website&theme=react)](https://github.com/milanmalshika/my-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=flight-sheets-booking&theme=react)](https://github.com/milanmalshika/flight-sheets-booking)
 
 ------------
 
 
 ## 🏠 Reach me:
-[![Gmail](/images/gm.png)](mailto:milanmalshika@gmail.com)
-[![Facebook](/images/fb.png)](https://www.facebook.com/milan.malshika)
-[![LinkedIn](/images/li.png)](https://www.linkedin.com/in/milan-malshika-12a9861a1)
+[![Gmail](/images/gm.jpeg)](mailto:milanmalshika@gmail.com)
+[![Facebook](/images/fb.jpeg)](https://www.facebook.com/milan.malshika)
+[![LinkedIn](/images/li.jpeg)](https://www.linkedin.com/in/milan-malshika-12a9861a1)
