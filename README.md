@@ -1,4 +1,4 @@
-### 👨‍💻Hi,  I'm Milan
+### 👨‍💻Hi! I’m Milan  🙋‍♂️  👀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=milanmalshika&theme=react&show_icons=true&count_private=true&hide_title=true&)
 
 ### 🔭 I’m currently working on ...👇
