@@ -4,7 +4,6 @@
 ### 🔭 I’m currently working on ...👇
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=carsystem&theme=vue)](https://github.com/milanmalshika/carsystem)
 
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=codeignitor-assignment&theme=react)](https://github.com/milanmalshika/codeignitor-assignment) 
