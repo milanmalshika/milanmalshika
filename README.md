@@ -15,6 +15,6 @@
 
 
 ## 🏠 Reach me:
-[![Gmail](/images/gm.jpeg)](mailto:milanmalshika@gmail.com)
-[![Facebook](/images/fb.jpeg)](https://www.facebook.com/milan.malshika)
-[![LinkedIn](/images/li.jpeg)](https://www.linkedin.com/in/milan-malshika-12a9861a1)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanmalshika@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/milan.malshika)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-malshika-12a9861a1)
