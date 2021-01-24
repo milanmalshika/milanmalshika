@@ -1,6 +1,10 @@
 ### 👨‍💻Hi! I’m Milan  🙋‍♂️  👀
 ![Github stats](https://github-readme-stats.vercel.app/api?username=milanmalshika&theme=react&show_icons=true&count_private=true&hide_title=true&)
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmalshika&layout=compact&theme=dracula"> 
+</p>
+
 ### 🔭 I’m currently working on ...👇
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system)
