@@ -1,7 +1,5 @@
 ### 👨‍💻Hi! I’m Milan  🙋‍♂️  👀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=milanmalshika&theme=react&show_icons=true&count_private=true&hide_title=true&)
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=milanmalshika&show_icons=true&theme=radical"> 
 </p>
