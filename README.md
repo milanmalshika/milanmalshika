@@ -11,6 +11,7 @@
 ### 🔭 I’m currently working on ...👇
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=smart_ride_app&theme=react)](https://github.com/Group-29-3rd-Year/smart_ride_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=smart-ride-web&theme=vue)](https://github.com/Group-29-3rd-Year/smart-ride-web)
 
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system) 
