@@ -19,6 +19,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=my-website&theme=vue)](https://github.com/milanmalshika/my-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=flight-sheets-booking&theme=react)](https://github.com/milanmalshika/flight-sheets-booking)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=codeignitor-assignment&theme=react)](https://github.com/milanmalshika/codeignitor-assignment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=Small-face-game-using-Java-Script&theme=vue)](https://github.com/milanmalshika/Small-face-game-using-Java-Script)
 
 ------------
 
