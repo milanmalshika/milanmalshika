@@ -10,13 +10,14 @@
 
 ### 🔭 I’m currently working on ...👇
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=IMS_system&theme=react)](https://github.com/Group-29-3rd-Year)
 
 ### 🏁 Finished ... 👇
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=codeignitor-assignment&theme=react)](https://github.com/milanmalshika/codeignitor-assignment) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=codeignitor-assignment&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=knapsack-container-problem&theme=vue)](https://github.com/milanmalshika/knapsack-container-problem)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=my-website&theme=vue)](https://github.com/milanmalshika/my-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=flight-sheets-booking&theme=react)](https://github.com/milanmalshika/flight-sheets-booking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=milanmalshika&repo=my-website&theme=vue)](https://github.com/milanmalshika/codeignitor-assignment)
 
 ------------
 
